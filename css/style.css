@@ -1,0 +1,17 @@
+/* Created by: Sam Makuc
+* Created on: Febuary 2023
+* This CSS file defines the style for index.html
+* ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color: rgb(137, 8, 212);
+}
+
+h1 {
+  background-color: rgb(255, 255, 255);
+}
+
+p {
+  background-color: rgb(255, 255, 255);
+}
